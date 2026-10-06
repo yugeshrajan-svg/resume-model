@@ -1,0 +1,22 @@
+Anjali Kulkarni
+anjali.kulkarni@example.com
+Location: Remote
+Notice period: 60 days
+
+Summary
+ML and data platform engineer.
+
+Experience
+Senior ML Platform Engineer | Helios Energy | Jun 2021 - Present
+- Built feature pipelines with Spark and Airflow
+- Deployed PyTorch models with Docker on Kubernetes
+Data Engineer | Quarry Labs
+Feb 2018 - May 2021
+- Python and SQL ETL on AWS
+- Tracked models in MLflow
+
+Skills
+Python, SQL, Apache Spark, Airflow, PyTorch, Docker, Kubernetes, AWS, MLflow
+
+Education
+B.Tech in Computer Science, Anna University, 2016

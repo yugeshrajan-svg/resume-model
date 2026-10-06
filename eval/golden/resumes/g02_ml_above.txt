@@ -1,0 +1,22 @@
+Meera Pillai
+meera.pillai@example.com
+Location: Remote
+Notice period: 45 days
+
+Summary
+Engineer building production ML services.
+
+Experience
+Sep 2020 - Present
+Machine Learning Engineer | Kestrel Health
+- Served PyTorch models behind FastAPI on AWS
+- Containerised training jobs with Docker and Kubernetes
+Jan 2019 - Aug 2020
+Data Scientist | Orchid Bank
+- Built credit models with scikit-learn and SQL
+
+Skills
+Python, SQL, PyTorch, Docker, Kubernetes, AWS, FastAPI, scikit-learn
+
+Education
+B.Tech in Computer Science, Anna University, 2016

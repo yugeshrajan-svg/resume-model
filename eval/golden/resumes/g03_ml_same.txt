@@ -1,0 +1,21 @@
+Nikhil Rao
+nikhil.rao@example.com
+Location: Bengaluru, India
+Notice period: 30 days
+
+Summary
+ML engineer with three years of experience.
+
+Experience
+Machine Learning Engineer | Pebble Labs | Jul 2023 - Present
+- Fine-tuned PyTorch vision models
+- Wrote data loaders in Python and SQL
+
+Projects
+Defect Detector: object detection with PyTorch on factory images
+
+Skills
+Python, SQL, PyTorch, Docker, Computer Vision
+
+Education
+B.Tech in Computer Science, Anna University, 2016

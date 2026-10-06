@@ -1,0 +1,21 @@
+Sam Patel
+sam.patel@example.com
+
+Location: Hyderabad, India
+Notice period: 15 days
+
+Summary
+Recent graduate eager to go the extra mile; CV and references available on request.
+
+Experience
+Data Science Intern - Vector Insights - May 2024 - Aug 2024
+- Cleaned data in Python and Pandas; built a scikit-learn classifier
+
+Projects
+Movie Recommender: collaborative filtering with Python and NumPy
+
+Skills
+Python, Pandas, NumPy, scikit-learn, R, Go
+
+Education
+B.Tech in Data Science, Vellore Institute of Technology, 2024

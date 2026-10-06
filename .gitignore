@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# Tooling
+.pytest_cache/
+.ruff_cache/
+
+# Local configuration and caches (may hold credentials or candidate data)
+.env
+.cache/
+
+# Real labelled data: never commit candidate resumes, labels or reports derived from them.
+eval/real/*
+!eval/real/README.md
+
+# Browser automation output (may contain candidate data)
+.playwright-mcp/

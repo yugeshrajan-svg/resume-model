@@ -1,0 +1,18 @@
+Tanvi Joshi
+tanvi.joshi@example.com
+Location: Bengaluru, India
+Notice period: immediate
+
+Summary
+PhD graduate in NLP.
+
+
+Projects
+Multilingual NER: Hugging Face Transformers NER for Indic languages in PyTorch
+Summariser: deep learning summarisation with PyTorch
+
+Skills
+Python, PyTorch, NLP, Hugging Face Transformers
+
+Education
+Ph.D. in Computer Science, Indian Institute of Science, 2026

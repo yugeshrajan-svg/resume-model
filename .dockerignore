@@ -1,0 +1,16 @@
+.git
+.venv
+.cache
+.env
+**/__pycache__
+.pytest_cache
+.ruff_cache
+*.egg-info
+build
+dist
+**/node_modules
+tests
+eval
+scripts
+*.md
+!README.md

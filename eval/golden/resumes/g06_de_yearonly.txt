@@ -1,0 +1,19 @@
+Sana Khan
+sana.khan@example.com
+Location: Remote
+Notice period: 30 days
+
+Summary
+Data engineer working on GCP pipelines.
+
+Experience
+Data Engineer | Harbor Freight Tech | 2024
+- Maintained Airflow DAGs and Spark jobs on GCP
+Junior Data Engineer | Maple Insights | 2020 - 2023
+- Wrote Python and SQL ETL jobs
+
+Skills
+Python, SQL, Apache Spark, Airflow, GCP
+
+Education
+B.Tech in Computer Science, Anna University, 2016

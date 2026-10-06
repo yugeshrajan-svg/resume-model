@@ -1,0 +1,28 @@
+{
+  "backends": {
+    "tfidf": {
+      "thresholds": {
+        "project_relevance": 0.2518,
+        "semantic_relevance": 0.5244
+      },
+      "details": {
+        "project_relevance": {
+          "threshold": 0.2518,
+          "balanced_accuracy": 0.933,
+          "n": 48,
+          "heldout_balanced_accuracy": 0.8737,
+          "folds": 3
+        },
+        "semantic_relevance": {
+          "threshold": 0.5244,
+          "balanced_accuracy": 0.9857,
+          "n": 48,
+          "heldout_balanced_accuracy": 0.9528,
+          "folds": 3
+        }
+      },
+      "calibrated_at": "2026-10-05T13:32:45+00:00",
+      "source": "eval/golden (python -m eval.run_eval --calibrate)"
+    }
+  }
+}

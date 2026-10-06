@@ -1,0 +1,23 @@
+Rahul Menon
+rahul.menon@example.com
+Location: Bengaluru, India
+Notice period: 30 days
+
+Summary
+Data engineer building batch and streaming platforms.
+
+Experience
+Senior Data Engineer | Larkspur Logistics
+Mar 2021 - Present
+- Built Kafka streaming pipelines into Snowflake
+- Orchestrated Spark jobs with Airflow on AWS
+Data Engineer | Cobalt Telecom
+Jan 2019 - Feb 2021
+- Modelled warehouse tables with dbt and SQL
+- Automated infrastructure with Terraform
+
+Skills
+Python, SQL, Apache Spark, Airflow, Kafka, AWS, dbt, Snowflake, Terraform
+
+Education
+B.Tech in Computer Science, Anna University, 2016

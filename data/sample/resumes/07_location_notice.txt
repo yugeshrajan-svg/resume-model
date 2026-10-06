@@ -1,0 +1,16 @@
+Lucas Moreau
+lucas.moreau@example.com
+Location: Lyon, France
+Notice period: 3 months
+
+Experience
+Staff Machine Learning Engineer | Cobalt AI | 2019-02 to present
+- Led LLM platform: PyTorch, Kubernetes, Docker, Azure, LangChain, MLflow
+Machine Learning Engineer | DataForge | 2015-06 to 2019-01
+- Python, SQL, Spark, AWS
+
+Skills
+Python, SQL, PyTorch, Docker, Kubernetes, Azure, AWS, LangChain, MLflow, Spark
+
+Education
+M.S. in Computer Science, Université de Lyon, 2015
