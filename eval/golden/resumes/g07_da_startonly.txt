@@ -1,0 +1,21 @@
+Divya Iyer
+divya.iyer@example.com
+Location: Hyderabad, India
+Notice period: 15 days
+
+Summary
+Analyst building dashboards for sales teams.
+
+Experience
+Data Analyst | Saffron Retail | Jan 2024 -
+- Built Tableau dashboards from SQL queries
+- Ran statistics tests in Python with Pandas
+
+Projects
+Churn Dashboard: Tableau dashboard tracking churn with SQL
+
+Skills
+SQL, Python, Tableau, Statistics, Pandas
+
+Education
+B.Tech in Computer Science, Anna University, 2016

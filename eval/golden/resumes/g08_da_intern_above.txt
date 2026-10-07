@@ -1,0 +1,19 @@
+Arjun Nair
+arjun.nair@example.com
+Location: Hyderabad, India
+Notice period: immediate
+
+Summary
+Recent graduate interested in analytics.
+
+Experience
+Jan 2026 - Jun 2026
+Data Analyst Intern | Lotus Media
+- Built Power BI reports with SQL
+- Cleaned survey data in Python
+
+Skills
+SQL, Python, Power BI
+
+Education
+B.Tech in Computer Science, Anna University, 2016

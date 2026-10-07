@@ -1,0 +1,13 @@
+include README.md requirements.txt requirements-dev.txt .env.example compose.yaml alembic.ini Dockerfile .dockerignore
+include .env.local-ai.example
+include requirements-training.txt
+recursive-include models *.Modelfile
+recursive-include docs *.md
+recursive-include infra *.sql
+recursive-include migrations *.py *.mako README
+recursive-include scripts *.py
+recursive-include tests *.py
+recursive-include data/sample *.py *.txt *.pdf *.docx
+recursive-include eval *.py *.json *.jsonl *.txt *.pdf *.docx *.md
+prune eval/real
+prune eval/reports

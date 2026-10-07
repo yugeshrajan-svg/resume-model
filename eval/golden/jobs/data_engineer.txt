@@ -1,0 +1,19 @@
+Job Title: Senior Data Engineer
+Location: Bengaluru, India / Remote
+
+Responsibilities
+- Build batch and streaming data pipelines
+- Own the data warehouse and data modeling
+
+Requirements
+- 4+ years of experience in data engineering roles
+- Strong Python and SQL
+- Apache Spark and Airflow
+- Kafka for streaming
+- Experience with AWS or GCP
+
+Nice to have
+- dbt, Snowflake
+- Terraform
+
+Notice period: we can wait up to 60 days.

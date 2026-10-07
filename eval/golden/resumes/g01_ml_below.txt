@@ -1,0 +1,26 @@
+Ishaan Verma
+ishaan.verma@example.com
+Location: Bengaluru, India
+Notice period: 30 days
+
+Summary
+Machine learning engineer focused on NLP and retrieval systems.
+
+Experience
+Senior Machine Learning Engineer | Northwind AI
+Feb 2021 - Present
+- Built RAG pipelines with LangChain on Azure OpenAI
+- Deployed PyTorch models on Kubernetes with Docker
+Machine Learning Engineer | Bluefin Retail
+Jun 2018 - Jan 2021
+- Trained recommendation models in Python and SQL on AWS
+- Tracked experiments in MLflow
+
+Projects
+Semantic Job Search: vector databases and PyTorch embeddings for job matching
+
+Skills
+Python, SQL, PyTorch, Docker, Kubernetes, Azure, AWS, LangChain, MLflow
+
+Education
+B.Tech in Computer Science, Anna University, 2016

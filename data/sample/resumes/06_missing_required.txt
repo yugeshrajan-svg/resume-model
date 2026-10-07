@@ -1,0 +1,16 @@
+Elena Kovacs
+elena.kovacs@example.com
+Location: Bengaluru, India
+Notice period: 30 days
+
+Experience
+Senior Data Scientist | Meridian Insurance | Apr 2018 - Present
+- Pricing models with R and Python; statistics and time series forecasting
+Data Scientist | Atlas Consulting | Jan 2015 - Mar 2018
+- SQL, Tableau, statistical modeling
+
+Skills
+Python, R, SQL, Tableau, Statistics, Time Series
+
+Education
+Ph.D. in Applied Mathematics, Budapest University of Technology, 2014

@@ -1,0 +1,22 @@
+Pooja Hegde
+pooja.hegde@example.com
+Location: Hyderabad, India
+Notice period: 30 days
+
+Summary
+Data scientist in insurance pricing.
+
+Experience
+Data Scientist | Granary Insurance
+Apr 2021 - Present
+- Built pricing models in R and Python
+- Presented statistics in Tableau
+
+Projects
+Claims Forecast: time series forecasting with scikit-learn
+
+Skills
+Python, R, SQL, Statistics, Tableau, scikit-learn
+
+Education
+B.Tech in Computer Science, Anna University, 2016

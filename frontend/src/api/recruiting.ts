@@ -1,0 +1,31 @@
+export type RecruitingActivity = {
+  id: string;
+  candidate_id: string | null;
+  candidate_name?: string | null;
+  job_title?: string | null;
+  job_id: string | null;
+  application_id: string | null;
+  assigned_to: string | null;
+  kind: string;
+  title: string;
+  notes: string;
+  status: string;
+  due_at: string | null;
+  end_at: string | null;
+  created_at: string;
+  updated_at: string;
+  details: {
+    round_name?: string;
+    plan_version?: number;
+    ratings?: Record<string, number>;
+    location?: string;
+    technical?: number;
+    communication?: number;
+    experience?: number;
+    recommendation?: string;
+    amount?: string;
+    currency?: string;
+    pay_period?: string;
+    start_date?: string;
+  };
+};

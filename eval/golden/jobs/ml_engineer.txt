@@ -1,0 +1,23 @@
+Job Title: Senior Machine Learning Engineer
+Location: Bengaluru, India (Hybrid) / Remote
+
+About the role
+You will build and ship ML and LLM-powered features for our hiring platform.
+
+Responsibilities
+- Design, train and deploy machine learning models to production
+- Build retrieval-augmented generation (RAG) pipelines on Azure OpenAI
+- Own model monitoring and MLOps tooling
+
+Requirements
+- 5+ years of experience in machine learning or data science roles
+- Strong Python and SQL
+- Hands-on experience with PyTorch
+- Experience deploying models with Docker and Kubernetes
+- Experience with Azure or AWS
+
+Nice to have
+- LangChain, vector databases, MLflow
+- Spark for large-scale data processing
+
+Notice period: we can wait up to 60 days for the right candidate.

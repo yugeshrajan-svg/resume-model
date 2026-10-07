@@ -1,0 +1,2128 @@
+{
+  "version": "2.0.0",
+  "_doc": "canonical -> {category, aliases, ambiguous_aliases}. Aliases are case-insensitive. ambiguous_aliases (e.g. 'go', 'r', 'excel', 'sales') only match as a standalone item in a skills list, never in free text. The canonical name is an alias unless it is listed as ambiguous. 2.0.0 added skills for 24 non-technical professions, mined from the skills sections of public example resumes and curated by hand.",
+  "skills": {
+    "Python": {
+      "category": "language",
+      "aliases": [
+        "python3",
+        "python 3"
+      ]
+    },
+    "Java": {
+      "category": "language",
+      "aliases": []
+    },
+    "JavaScript": {
+      "category": "language",
+      "aliases": [
+        "ecmascript",
+        "es6"
+      ],
+      "ambiguous_aliases": [
+        "js"
+      ]
+    },
+    "TypeScript": {
+      "category": "language",
+      "aliases": [],
+      "ambiguous_aliases": [
+        "ts"
+      ]
+    },
+    "Go": {
+      "category": "language",
+      "aliases": [
+        "golang"
+      ],
+      "ambiguous_aliases": [
+        "go"
+      ]
+    },
+    "R": {
+      "category": "language",
+      "aliases": [
+        "r programming",
+        "r language",
+        "rstudio"
+      ],
+      "ambiguous_aliases": [
+        "r"
+      ]
+    },
+    "Scala": {
+      "category": "language",
+      "aliases": []
+    },
+    "C++": {
+      "category": "language",
+      "aliases": [
+        "cpp"
+      ]
+    },
+    "C#": {
+      "category": "language",
+      "aliases": [
+        "csharp",
+        "c sharp"
+      ]
+    },
+    "Rust": {
+      "category": "language",
+      "aliases": []
+    },
+    "Kotlin": {
+      "category": "language",
+      "aliases": []
+    },
+    "SQL": {
+      "category": "data",
+      "aliases": [
+        "t-sql",
+        "pl/sql"
+      ]
+    },
+    "Bash": {
+      "category": "devops",
+      "aliases": [
+        "shell scripting",
+        "bash scripting"
+      ]
+    },
+    "PostgreSQL": {
+      "category": "data",
+      "aliases": [
+        "postgres",
+        "postgre sql"
+      ]
+    },
+    "MySQL": {
+      "category": "data",
+      "aliases": []
+    },
+    "MongoDB": {
+      "category": "data",
+      "aliases": [
+        "mongo db"
+      ]
+    },
+    "Redis": {
+      "category": "data",
+      "aliases": []
+    },
+    "Elasticsearch": {
+      "category": "data",
+      "aliases": [
+        "elastic search",
+        "opensearch"
+      ]
+    },
+    "Snowflake": {
+      "category": "data",
+      "aliases": []
+    },
+    "BigQuery": {
+      "category": "data",
+      "aliases": [
+        "big query",
+        "google bigquery"
+      ]
+    },
+    "Apache Spark": {
+      "category": "data",
+      "aliases": [
+        "spark",
+        "pyspark",
+        "spark sql",
+        "spark streaming"
+      ]
+    },
+    "Hadoop": {
+      "category": "data",
+      "aliases": [
+        "hdfs",
+        "mapreduce"
+      ]
+    },
+    "Kafka": {
+      "category": "data",
+      "aliases": [
+        "apache kafka"
+      ]
+    },
+    "Airflow": {
+      "category": "data",
+      "aliases": [
+        "apache airflow"
+      ]
+    },
+    "dbt": {
+      "category": "data",
+      "aliases": [
+        "data build tool"
+      ]
+    },
+    "Databricks": {
+      "category": "data",
+      "aliases": []
+    },
+    "Pandas": {
+      "category": "data",
+      "aliases": []
+    },
+    "NumPy": {
+      "category": "data",
+      "aliases": []
+    },
+    "Tableau": {
+      "category": "data",
+      "aliases": []
+    },
+    "Power BI": {
+      "category": "data",
+      "aliases": [
+        "powerbi"
+      ]
+    },
+    "ETL": {
+      "category": "data",
+      "aliases": [
+        "elt",
+        "etl pipelines",
+        "data pipelines"
+      ]
+    },
+    "Data Warehousing": {
+      "category": "data",
+      "aliases": [
+        "data warehouse",
+        "data warehouses"
+      ]
+    },
+    "Data Modeling": {
+      "category": "data",
+      "aliases": [
+        "data modelling",
+        "dimensional modeling"
+      ]
+    },
+    "Machine Learning": {
+      "category": "ai",
+      "aliases": [
+        "machine-learning"
+      ],
+      "ambiguous_aliases": [
+        "ml"
+      ]
+    },
+    "Deep Learning": {
+      "category": "ai",
+      "aliases": [
+        "deep-learning",
+        "neural networks"
+      ],
+      "ambiguous_aliases": [
+        "dl"
+      ]
+    },
+    "NLP": {
+      "category": "ai",
+      "aliases": [
+        "natural language processing"
+      ]
+    },
+    "Computer Vision": {
+      "category": "ai",
+      "aliases": [
+        "image recognition",
+        "object detection"
+      ],
+      "ambiguous_aliases": [
+        "cv"
+      ]
+    },
+    "PyTorch": {
+      "category": "ai",
+      "aliases": [
+        "torch"
+      ]
+    },
+    "TensorFlow": {
+      "category": "ai",
+      "aliases": [
+        "tensor flow",
+        "tf2"
+      ],
+      "ambiguous_aliases": [
+        "tf"
+      ]
+    },
+    "Keras": {
+      "category": "ai",
+      "aliases": []
+    },
+    "scikit-learn": {
+      "category": "ai",
+      "aliases": [
+        "sklearn",
+        "scikit learn"
+      ]
+    },
+    "XGBoost": {
+      "category": "ai",
+      "aliases": []
+    },
+    "LightGBM": {
+      "category": "ai",
+      "aliases": [
+        "light gbm"
+      ]
+    },
+    "Hugging Face Transformers": {
+      "category": "ai",
+      "aliases": [
+        "hugging face",
+        "huggingface",
+        "hf transformers"
+      ]
+    },
+    "LLMs": {
+      "category": "ai",
+      "aliases": [
+        "llm",
+        "large language model",
+        "large language models"
+      ]
+    },
+    "RAG": {
+      "category": "ai",
+      "aliases": [
+        "retrieval-augmented generation",
+        "retrieval augmented generation"
+      ]
+    },
+    "Prompt Engineering": {
+      "category": "ai",
+      "aliases": [
+        "prompt design"
+      ]
+    },
+    "LangChain": {
+      "category": "ai",
+      "aliases": [
+        "lang chain"
+      ]
+    },
+    "LlamaIndex": {
+      "category": "ai",
+      "aliases": [
+        "llama index",
+        "llama-index"
+      ]
+    },
+    "Vector Databases": {
+      "category": "ai",
+      "aliases": [
+        "vector database",
+        "vector db",
+        "pinecone",
+        "weaviate",
+        "qdrant",
+        "pgvector",
+        "milvus"
+      ]
+    },
+    "FAISS": {
+      "category": "ai",
+      "aliases": []
+    },
+    "OpenAI API": {
+      "category": "ai",
+      "aliases": [
+        "openai",
+        "gpt-4",
+        "gpt-4o"
+      ]
+    },
+    "Azure OpenAI": {
+      "category": "ai",
+      "aliases": [
+        "azure open ai"
+      ]
+    },
+    "Generative AI": {
+      "category": "ai",
+      "aliases": [
+        "genai",
+        "gen ai",
+        "generative models"
+      ]
+    },
+    "Fine-tuning": {
+      "category": "ai",
+      "aliases": [
+        "fine tuning",
+        "finetuning",
+        "lora",
+        "peft"
+      ]
+    },
+    "MLOps": {
+      "category": "ai",
+      "aliases": [
+        "ml ops",
+        "ml-ops"
+      ]
+    },
+    "MLflow": {
+      "category": "ai",
+      "aliases": [
+        "ml flow"
+      ]
+    },
+    "Kubeflow": {
+      "category": "ai",
+      "aliases": []
+    },
+    "Feature Engineering": {
+      "category": "ai",
+      "aliases": []
+    },
+    "Statistics": {
+      "category": "ai",
+      "aliases": [
+        "statistical modeling",
+        "statistical analysis"
+      ]
+    },
+    "A/B Testing": {
+      "category": "ai",
+      "aliases": [
+        "ab testing",
+        "a/b tests",
+        "a/b experiments"
+      ]
+    },
+    "Time Series": {
+      "category": "ai",
+      "aliases": [
+        "time-series",
+        "forecasting"
+      ]
+    },
+    "Recommender Systems": {
+      "category": "ai",
+      "aliases": [
+        "recommendation systems",
+        "recommendation engine",
+        "recommender system"
+      ]
+    },
+    "Reinforcement Learning": {
+      "category": "ai",
+      "aliases": [],
+      "ambiguous_aliases": [
+        "rl"
+      ]
+    },
+    "AWS": {
+      "category": "cloud",
+      "aliases": [
+        "amazon web services"
+      ]
+    },
+    "Azure": {
+      "category": "cloud",
+      "aliases": [
+        "microsoft azure"
+      ]
+    },
+    "GCP": {
+      "category": "cloud",
+      "aliases": [
+        "google cloud",
+        "google cloud platform"
+      ]
+    },
+    "SageMaker": {
+      "category": "cloud",
+      "aliases": [
+        "aws sagemaker",
+        "amazon sagemaker"
+      ]
+    },
+    "Azure Machine Learning": {
+      "category": "cloud",
+      "aliases": [
+        "azure ml",
+        "azureml"
+      ]
+    },
+    "Docker": {
+      "category": "devops",
+      "aliases": [
+        "containerization",
+        "docker compose"
+      ]
+    },
+    "Kubernetes": {
+      "category": "devops",
+      "aliases": [
+        "k8s",
+        "aks",
+        "eks",
+        "gke"
+      ]
+    },
+    "Terraform": {
+      "category": "devops",
+      "aliases": []
+    },
+    "CI/CD": {
+      "category": "devops",
+      "aliases": [
+        "ci cd",
+        "continuous integration",
+        "continuous delivery"
+      ]
+    },
+    "Git": {
+      "category": "devops",
+      "aliases": []
+    },
+    "GitHub Actions": {
+      "category": "devops",
+      "aliases": []
+    },
+    "Jenkins": {
+      "category": "devops",
+      "aliases": []
+    },
+    "Linux": {
+      "category": "devops",
+      "aliases": [
+        "unix"
+      ]
+    },
+    "FastAPI": {
+      "category": "backend",
+      "aliases": [
+        "fast api"
+      ]
+    },
+    "Flask": {
+      "category": "backend",
+      "aliases": []
+    },
+    "Django": {
+      "category": "backend",
+      "aliases": []
+    },
+    "REST APIs": {
+      "category": "backend",
+      "aliases": [
+        "rest api",
+        "restful",
+        "restful apis",
+        "rest services"
+      ]
+    },
+    "GraphQL": {
+      "category": "backend",
+      "aliases": []
+    },
+    "Microservices": {
+      "category": "backend",
+      "aliases": [
+        "microservice",
+        "micro-services"
+      ]
+    },
+    "React": {
+      "category": "frontend",
+      "aliases": [
+        "react.js",
+        "reactjs"
+      ]
+    },
+    "Node.js": {
+      "category": "backend",
+      "aliases": [
+        "nodejs",
+        "node js"
+      ]
+    },
+    "Spring Boot": {
+      "category": "backend",
+      "aliases": [
+        "springboot"
+      ]
+    },
+    "Microsoft Excel": {
+      "category": "office",
+      "aliases": [
+        "ms excel",
+        "ms-excel",
+        "advanced excel",
+        "excel spreadsheet",
+        "in excel"
+      ],
+      "ambiguous_aliases": [
+        "excel"
+      ]
+    },
+    "Microsoft Word": {
+      "category": "office",
+      "aliases": [
+        "ms word",
+        "ms-word"
+      ],
+      "ambiguous_aliases": [
+        "word"
+      ]
+    },
+    "Microsoft PowerPoint": {
+      "category": "office",
+      "aliases": [
+        "powerpoint",
+        "power point",
+        "ms powerpoint"
+      ]
+    },
+    "Microsoft Outlook": {
+      "category": "office",
+      "aliases": [
+        "ms outlook"
+      ],
+      "ambiguous_aliases": [
+        "outlook"
+      ]
+    },
+    "Microsoft Access": {
+      "category": "office",
+      "aliases": [
+        "ms access"
+      ],
+      "ambiguous_aliases": [
+        "access"
+      ]
+    },
+    "Microsoft Office": {
+      "category": "office",
+      "aliases": [
+        "ms office",
+        "microsoft office suite",
+        "ms office suite",
+        "office 365",
+        "microsoft 365"
+      ],
+      "ambiguous_aliases": [
+        "office"
+      ]
+    },
+    "Microsoft Publisher": {
+      "category": "office",
+      "aliases": [
+        "ms publisher"
+      ],
+      "ambiguous_aliases": [
+        "publisher"
+      ]
+    },
+    "Microsoft Visio": {
+      "category": "office",
+      "aliases": [
+        "visio"
+      ]
+    },
+    "SharePoint": {
+      "category": "office",
+      "aliases": [
+        "microsoft sharepoint"
+      ]
+    },
+    "Data Entry": {
+      "category": "office",
+      "aliases": []
+    },
+    "Office Administration": {
+      "category": "office",
+      "aliases": [
+        "administrative support",
+        "office management",
+        "clerical work",
+        "clerical duties"
+      ],
+      "ambiguous_aliases": [
+        "clerical",
+        "filing"
+      ]
+    },
+    "QuickBooks": {
+      "category": "finance",
+      "aliases": [
+        "quick books",
+        "quickbooks online",
+        "quickbooks pro"
+      ]
+    },
+    "SAP": {
+      "category": "business",
+      "aliases": [
+        "sap erp",
+        "sap r/3"
+      ]
+    },
+    "PeopleSoft": {
+      "category": "business",
+      "aliases": []
+    },
+    "Oracle": {
+      "category": "it",
+      "aliases": [
+        "oracle database",
+        "oracle db"
+      ]
+    },
+    "ERP Systems": {
+      "category": "business",
+      "aliases": [
+        "erp",
+        "enterprise resource planning"
+      ]
+    },
+    "CRM Software": {
+      "category": "sales",
+      "aliases": [
+        "crm",
+        "customer relationship management",
+        "crm systems"
+      ]
+    },
+    "Salesforce": {
+      "category": "sales",
+      "aliases": [
+        "salesforce.com",
+        "salesforce crm"
+      ]
+    },
+    "HRIS": {
+      "category": "hr",
+      "aliases": [
+        "human resource information system",
+        "human resources information system"
+      ]
+    },
+    "Adobe Photoshop": {
+      "category": "design",
+      "aliases": [
+        "photoshop"
+      ]
+    },
+    "Adobe Illustrator": {
+      "category": "design",
+      "aliases": [],
+      "ambiguous_aliases": [
+        "illustrator"
+      ]
+    },
+    "Adobe InDesign": {
+      "category": "design",
+      "aliases": [
+        "indesign"
+      ]
+    },
+    "Adobe Creative Suite": {
+      "category": "design",
+      "aliases": [
+        "creative suite",
+        "adobe creative cloud",
+        "creative cloud"
+      ]
+    },
+    "Adobe Premiere": {
+      "category": "design",
+      "aliases": [
+        "premiere pro",
+        "adobe premiere pro"
+      ]
+    },
+    "Final Cut Pro": {
+      "category": "design",
+      "aliases": [
+        "final cut"
+      ]
+    },
+    "Graphic Design": {
+      "category": "design",
+      "aliases": []
+    },
+    "Web Design": {
+      "category": "design",
+      "aliases": [
+        "website design"
+      ]
+    },
+    "Interior Design": {
+      "category": "design",
+      "aliases": [
+        "space planning"
+      ]
+    },
+    "Fashion Design": {
+      "category": "design",
+      "aliases": []
+    },
+    "Photography": {
+      "category": "design",
+      "aliases": [
+        "product photography",
+        "digital photography"
+      ],
+      "ambiguous_aliases": [
+        "photography"
+      ]
+    },
+    "Video Production": {
+      "category": "design",
+      "aliases": [
+        "video editing"
+      ]
+    },
+    "WordPress": {
+      "category": "design",
+      "aliases": [
+        "word press"
+      ]
+    },
+    "HTML": {
+      "category": "frontend",
+      "aliases": [
+        "html5"
+      ]
+    },
+    "CSS": {
+      "category": "frontend",
+      "aliases": [
+        "css3"
+      ]
+    },
+    "AutoCAD": {
+      "category": "engineering",
+      "aliases": [
+        "auto cad"
+      ]
+    },
+    "SolidWorks": {
+      "category": "engineering",
+      "aliases": [
+        "solid works"
+      ]
+    },
+    "MATLAB": {
+      "category": "engineering",
+      "aliases": []
+    },
+    "Revit": {
+      "category": "engineering",
+      "aliases": []
+    },
+    "SketchUp": {
+      "category": "engineering",
+      "aliases": [
+        "sketch up"
+      ]
+    },
+    "Computer-Aided Design": {
+      "category": "engineering",
+      "aliases": [
+        "computer aided design"
+      ],
+      "ambiguous_aliases": [
+        "cad"
+      ]
+    },
+    "CAD Drafting": {
+      "category": "engineering",
+      "aliases": [
+        "autocad drafting",
+        "technical drawing",
+        "technical drawings",
+        "mechanical drafting"
+      ],
+      "ambiguous_aliases": [
+        "drafting"
+      ]
+    },
+    "3D Modeling": {
+      "category": "engineering",
+      "aliases": [
+        "3d modelling",
+        "3-d modeling"
+      ]
+    },
+    "PLC Programming": {
+      "category": "engineering",
+      "aliases": [
+        "plc"
+      ]
+    },
+    "Schematics": {
+      "category": "engineering",
+      "aliases": [
+        "reading schematics",
+        "schematic diagrams"
+      ]
+    },
+    "Blueprint Reading": {
+      "category": "construction",
+      "aliases": [
+        "reading blueprints",
+        "blueprints"
+      ]
+    },
+    "Building Codes": {
+      "category": "construction",
+      "aliases": []
+    },
+    "Construction Management": {
+      "category": "construction",
+      "aliases": [
+        "site management"
+      ]
+    },
+    "Quality Control": {
+      "category": "operations",
+      "aliases": [
+        "quality inspection"
+      ],
+      "ambiguous_aliases": [
+        "qc"
+      ]
+    },
+    "Quality Assurance": {
+      "category": "operations",
+      "aliases": [],
+      "ambiguous_aliases": [
+        "qa"
+      ]
+    },
+    "Inspection": {
+      "category": "operations",
+      "aliases": [
+        "inspections"
+      ]
+    },
+    "Workplace Safety": {
+      "category": "operations",
+      "aliases": [
+        "safety compliance",
+        "safety management",
+        "safety programs",
+        "occupational safety",
+        "osha"
+      ],
+      "ambiguous_aliases": [
+        "safety"
+      ]
+    },
+    "Forklift Operation": {
+      "category": "operations",
+      "aliases": [
+        "forklift",
+        "forklift certified"
+      ]
+    },
+    "Plumbing": {
+      "category": "construction",
+      "aliases": [
+        "plumbing repairs",
+        "plumbing systems",
+        "plumbing installation"
+      ],
+      "ambiguous_aliases": [
+        "plumbing"
+      ]
+    },
+    "Carpentry": {
+      "category": "construction",
+      "aliases": [
+        "finish carpentry",
+        "rough carpentry",
+        "carpenter"
+      ],
+      "ambiguous_aliases": [
+        "carpentry"
+      ]
+    },
+    "Welding": {
+      "category": "construction",
+      "aliases": [
+        "mig welding",
+        "tig welding",
+        "arc welding",
+        "welder"
+      ],
+      "ambiguous_aliases": [
+        "welding"
+      ]
+    },
+    "HVAC": {
+      "category": "construction",
+      "aliases": []
+    },
+    "Six Sigma": {
+      "category": "operations",
+      "aliases": [
+        "lean six sigma"
+      ]
+    },
+    "Lean Manufacturing": {
+      "category": "operations",
+      "aliases": [],
+      "ambiguous_aliases": [
+        "lean"
+      ]
+    },
+    "Process Improvement": {
+      "category": "operations",
+      "aliases": [
+        "continuous improvement"
+      ]
+    },
+    "Product Development": {
+      "category": "business",
+      "aliases": [
+        "new product development"
+      ]
+    },
+    "Active Directory": {
+      "category": "it",
+      "aliases": []
+    },
+    "Windows Server": {
+      "category": "it",
+      "aliases": []
+    },
+    "Network Administration": {
+      "category": "it",
+      "aliases": [
+        "network administrator",
+        "network management"
+      ]
+    },
+    "Network Security": {
+      "category": "it",
+      "aliases": [
+        "firewalls",
+        "firewall"
+      ]
+    },
+    "LAN/WAN": {
+      "category": "it",
+      "aliases": [
+        "local area network",
+        "wide area network"
+      ],
+      "ambiguous_aliases": [
+        "lan",
+        "wan"
+      ]
+    },
+    "VPN": {
+      "category": "it",
+      "aliases": []
+    },
+    "VoIP": {
+      "category": "it",
+      "aliases": []
+    },
+    "Cisco": {
+      "category": "it",
+      "aliases": [
+        "cisco ios"
+      ]
+    },
+    "VMware": {
+      "category": "it",
+      "aliases": [
+        "virtualization"
+      ]
+    },
+    "Citrix": {
+      "category": "it",
+      "aliases": []
+    },
+    "Help Desk": {
+      "category": "it",
+      "aliases": [
+        "helpdesk",
+        "service desk"
+      ]
+    },
+    "Technical Support": {
+      "category": "it",
+      "aliases": [
+        "tech support",
+        "it support",
+        "desktop support"
+      ]
+    },
+    "Troubleshooting": {
+      "category": "it",
+      "aliases": []
+    },
+    "Disaster Recovery": {
+      "category": "it",
+      "aliases": []
+    },
+    "ITIL": {
+      "category": "it",
+      "aliases": []
+    },
+    "Accounting": {
+      "category": "finance",
+      "aliases": [
+        "gaap",
+        "cost accounting",
+        "financial accounting",
+        "accounting software",
+        "accounting principles"
+      ],
+      "ambiguous_aliases": [
+        "accounting"
+      ]
+    },
+    "Bookkeeping": {
+      "category": "finance",
+      "aliases": [
+        "book keeping"
+      ]
+    },
+    "General Ledger": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Accounts Payable": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Accounts Receivable": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Account Reconciliation": {
+      "category": "finance",
+      "aliases": [
+        "account reconciliations",
+        "bank reconciliation",
+        "bank reconciliations",
+        "reconciliations"
+      ],
+      "ambiguous_aliases": [
+        "reconciliation"
+      ]
+    },
+    "Financial Statements": {
+      "category": "finance",
+      "aliases": [
+        "financial statement preparation",
+        "balance sheet",
+        "balance sheets",
+        "income statement"
+      ]
+    },
+    "Financial Reporting": {
+      "category": "finance",
+      "aliases": [
+        "financial reports",
+        "financial report"
+      ]
+    },
+    "Financial Analysis": {
+      "category": "finance",
+      "aliases": [
+        "financial statement analysis"
+      ]
+    },
+    "Variance Analysis": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Budgeting": {
+      "category": "finance",
+      "aliases": [
+        "budget management",
+        "budget planning",
+        "budget preparation",
+        "budget development"
+      ],
+      "ambiguous_aliases": [
+        "budget",
+        "budgets"
+      ]
+    },
+    "Cash Flow Management": {
+      "category": "finance",
+      "aliases": [
+        "cash flow",
+        "cash management"
+      ]
+    },
+    "Month-End Close": {
+      "category": "finance",
+      "aliases": [
+        "month end close",
+        "month-end closing",
+        "year-end close",
+        "year-end closing"
+      ]
+    },
+    "Fixed Assets": {
+      "category": "finance",
+      "aliases": [
+        "fixed asset accounting"
+      ]
+    },
+    "Payroll": {
+      "category": "finance",
+      "aliases": [
+        "payroll processing",
+        "payroll administration"
+      ]
+    },
+    "Tax Preparation": {
+      "category": "finance",
+      "aliases": [
+        "tax returns",
+        "tax return",
+        "tax filing",
+        "tax filings",
+        "income tax"
+      ],
+      "ambiguous_aliases": [
+        "tax"
+      ]
+    },
+    "Auditing": {
+      "category": "finance",
+      "aliases": [
+        "internal audit",
+        "internal audits"
+      ]
+    },
+    "Invoicing": {
+      "category": "finance",
+      "aliases": [
+        "invoice processing"
+      ]
+    },
+    "Billing": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Banking": {
+      "category": "finance",
+      "aliases": [
+        "retail banking",
+        "commercial banking",
+        "investment banking",
+        "banking operations"
+      ],
+      "ambiguous_aliases": [
+        "banking"
+      ]
+    },
+    "Loan Processing": {
+      "category": "finance",
+      "aliases": [
+        "loan origination"
+      ]
+    },
+    "Credit Analysis": {
+      "category": "finance",
+      "aliases": [
+        "credit risk"
+      ]
+    },
+    "Underwriting": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Financial Planning": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Wealth Management": {
+      "category": "finance",
+      "aliases": []
+    },
+    "Risk Management": {
+      "category": "finance",
+      "aliases": [
+        "risk assessment"
+      ]
+    },
+    "Anti-Money Laundering": {
+      "category": "finance",
+      "aliases": [
+        "anti money laundering",
+        "aml",
+        "bsa/aml"
+      ]
+    },
+    "Cash Handling": {
+      "category": "finance",
+      "aliases": [
+        "handling cash",
+        "cash register"
+      ]
+    },
+    "Sales": {
+      "category": "sales",
+      "aliases": [
+        "retail sales",
+        "inside sales",
+        "outside sales",
+        "b2b sales",
+        "direct sales",
+        "consultative selling"
+      ],
+      "ambiguous_aliases": [
+        "sales",
+        "selling"
+      ]
+    },
+    "Business Development": {
+      "category": "sales",
+      "aliases": [
+        "new business development"
+      ]
+    },
+    "Account Management": {
+      "category": "sales",
+      "aliases": [
+        "key account management"
+      ]
+    },
+    "Client Relations": {
+      "category": "sales",
+      "aliases": [
+        "client relationship management",
+        "relationship management",
+        "relationship building"
+      ]
+    },
+    "Lead Generation": {
+      "category": "sales",
+      "aliases": [
+        "prospecting"
+      ]
+    },
+    "Cold Calling": {
+      "category": "sales",
+      "aliases": [
+        "cold calls"
+      ]
+    },
+    "Negotiation": {
+      "category": "sales",
+      "aliases": [
+        "negotiations",
+        "negotiating"
+      ]
+    },
+    "Contract Management": {
+      "category": "business",
+      "aliases": [
+        "contract administration"
+      ],
+      "ambiguous_aliases": [
+        "contracts"
+      ]
+    },
+    "Point of Sale": {
+      "category": "sales",
+      "aliases": [
+        "pos systems",
+        "pos system"
+      ],
+      "ambiguous_aliases": [
+        "pos"
+      ]
+    },
+    "Merchandising": {
+      "category": "sales",
+      "aliases": [
+        "visual merchandising"
+      ]
+    },
+    "Loss Prevention": {
+      "category": "sales",
+      "aliases": []
+    },
+    "Pricing Strategy": {
+      "category": "sales",
+      "aliases": [
+        "pricing strategies"
+      ],
+      "ambiguous_aliases": [
+        "pricing"
+      ]
+    },
+    "Telemarketing": {
+      "category": "sales",
+      "aliases": []
+    },
+    "Marketing": {
+      "category": "marketing",
+      "aliases": [
+        "marketing strategy",
+        "marketing strategies",
+        "marketing campaigns",
+        "marketing plans"
+      ],
+      "ambiguous_aliases": [
+        "marketing"
+      ]
+    },
+    "Digital Marketing": {
+      "category": "marketing",
+      "aliases": [
+        "online marketing",
+        "internet marketing"
+      ]
+    },
+    "Social Media Marketing": {
+      "category": "marketing",
+      "aliases": [
+        "social media",
+        "social media management"
+      ]
+    },
+    "Email Marketing": {
+      "category": "marketing",
+      "aliases": [
+        "e-mail marketing"
+      ]
+    },
+    "SEO": {
+      "category": "marketing",
+      "aliases": [
+        "search engine optimization"
+      ]
+    },
+    "Google Analytics": {
+      "category": "marketing",
+      "aliases": []
+    },
+    "Google Ads": {
+      "category": "marketing",
+      "aliases": [
+        "google adwords",
+        "adwords",
+        "pay-per-click",
+        "ppc"
+      ]
+    },
+    "Market Research": {
+      "category": "marketing",
+      "aliases": [
+        "market analysis"
+      ]
+    },
+    "Advertising": {
+      "category": "marketing",
+      "aliases": [
+        "advertising campaigns",
+        "advertising sales",
+        "digital advertising",
+        "print advertising"
+      ],
+      "ambiguous_aliases": [
+        "advertising"
+      ]
+    },
+    "Brand Management": {
+      "category": "marketing",
+      "aliases": [
+        "branding"
+      ]
+    },
+    "Content Creation": {
+      "category": "marketing",
+      "aliases": [
+        "content development",
+        "content writing",
+        "content strategy"
+      ]
+    },
+    "Copywriting": {
+      "category": "marketing",
+      "aliases": [
+        "copy writing"
+      ]
+    },
+    "Editing and Proofreading": {
+      "category": "marketing",
+      "aliases": [
+        "copy editing",
+        "copyediting",
+        "proofreading"
+      ],
+      "ambiguous_aliases": [
+        "editing"
+      ]
+    },
+    "Public Relations": {
+      "category": "marketing",
+      "aliases": []
+    },
+    "Media Relations": {
+      "category": "marketing",
+      "aliases": [
+        "press relations"
+      ]
+    },
+    "Press Releases": {
+      "category": "marketing",
+      "aliases": [
+        "press release writing"
+      ]
+    },
+    "Event Planning": {
+      "category": "marketing",
+      "aliases": [
+        "event management",
+        "special events",
+        "event coordination"
+      ]
+    },
+    "Fundraising": {
+      "category": "marketing",
+      "aliases": [
+        "fund raising",
+        "fund-raising",
+        "donor relations"
+      ]
+    },
+    "Grant Writing": {
+      "category": "marketing",
+      "aliases": [
+        "grant proposals"
+      ]
+    },
+    "Project Management": {
+      "category": "business",
+      "aliases": [
+        "project planning"
+      ]
+    },
+    "Strategic Planning": {
+      "category": "business",
+      "aliases": []
+    },
+    "Operations Management": {
+      "category": "business",
+      "aliases": []
+    },
+    "Change Management": {
+      "category": "business",
+      "aliases": []
+    },
+    "Procurement": {
+      "category": "operations",
+      "aliases": [
+        "purchasing",
+        "strategic sourcing"
+      ]
+    },
+    "Vendor Management": {
+      "category": "operations",
+      "aliases": [
+        "vendor relations",
+        "supplier management"
+      ]
+    },
+    "Inventory Management": {
+      "category": "operations",
+      "aliases": [
+        "inventory control",
+        "stock control"
+      ],
+      "ambiguous_aliases": [
+        "inventory"
+      ]
+    },
+    "Logistics": {
+      "category": "operations",
+      "aliases": [
+        "logistics management",
+        "logistics coordination",
+        "logistics operations",
+        "logistics support",
+        "logistics specialist"
+      ],
+      "ambiguous_aliases": [
+        "logistics"
+      ]
+    },
+    "Supply Chain Management": {
+      "category": "operations",
+      "aliases": [
+        "supply chain"
+      ]
+    },
+    "Shipping and Receiving": {
+      "category": "operations",
+      "aliases": [
+        "shipping & receiving"
+      ],
+      "ambiguous_aliases": [
+        "shipping",
+        "receiving"
+      ]
+    },
+    "Scheduling": {
+      "category": "operations",
+      "aliases": [
+        "appointment scheduling",
+        "staff scheduling",
+        "employee scheduling",
+        "calendar management"
+      ],
+      "ambiguous_aliases": [
+        "scheduling"
+      ]
+    },
+    "Regulatory Compliance": {
+      "category": "legal",
+      "aliases": [
+        "compliance management"
+      ],
+      "ambiguous_aliases": [
+        "compliance"
+      ]
+    },
+    "Research": {
+      "category": "business",
+      "aliases": [],
+      "ambiguous_aliases": [
+        "research"
+      ]
+    },
+    "Recruiting": {
+      "category": "hr",
+      "aliases": [
+        "recruitment",
+        "talent acquisition",
+        "full-cycle recruiting",
+        "full cycle recruiting",
+        "sourcing candidates"
+      ]
+    },
+    "Employee Relations": {
+      "category": "hr",
+      "aliases": []
+    },
+    "Benefits Administration": {
+      "category": "hr",
+      "aliases": [
+        "employee benefits"
+      ],
+      "ambiguous_aliases": [
+        "benefits"
+      ]
+    },
+    "Compensation Management": {
+      "category": "hr",
+      "aliases": [
+        "compensation analysis",
+        "salary administration"
+      ]
+    },
+    "Performance Management": {
+      "category": "hr",
+      "aliases": [
+        "performance reviews",
+        "performance appraisals"
+      ]
+    },
+    "Onboarding": {
+      "category": "hr",
+      "aliases": [
+        "new hire orientation",
+        "employee onboarding",
+        "onboarding new hires",
+        "onboarding new employees",
+        "new hire onboarding"
+      ],
+      "ambiguous_aliases": [
+        "onboarding"
+      ]
+    },
+    "Human Resources": {
+      "category": "hr",
+      "aliases": [
+        "human resource management",
+        "hr management"
+      ],
+      "ambiguous_aliases": [
+        "human resources"
+      ]
+    },
+    "Employment Law": {
+      "category": "hr",
+      "aliases": [
+        "labor law",
+        "labour law"
+      ]
+    },
+    "Training and Development": {
+      "category": "hr",
+      "aliases": [
+        "staff training",
+        "employee training",
+        "staff development",
+        "employee development",
+        "training programs"
+      ],
+      "ambiguous_aliases": [
+        "training"
+      ]
+    },
+    "Interviewing": {
+      "category": "hr",
+      "aliases": [],
+      "ambiguous_aliases": [
+        "interviewing"
+      ]
+    },
+    "Team Management": {
+      "category": "business",
+      "aliases": [
+        "staff management",
+        "people management",
+        "staff supervision",
+        "supervising staff"
+      ],
+      "ambiguous_aliases": [
+        "supervision"
+      ]
+    },
+    "Mentoring": {
+      "category": "business",
+      "aliases": []
+    },
+    "Coaching": {
+      "category": "business",
+      "aliases": []
+    },
+    "Customer Service": {
+      "category": "customer_service",
+      "aliases": [
+        "customer support",
+        "client service",
+        "customer care",
+        "guest services"
+      ]
+    },
+    "Call Center": {
+      "category": "customer_service",
+      "aliases": [
+        "call centre",
+        "contact center"
+      ]
+    },
+    "Complaint Resolution": {
+      "category": "customer_service",
+      "aliases": [
+        "complaint handling"
+      ]
+    },
+    "Patient Care": {
+      "category": "healthcare",
+      "aliases": []
+    },
+    "Medical Terminology": {
+      "category": "healthcare",
+      "aliases": []
+    },
+    "Medical Billing": {
+      "category": "healthcare",
+      "aliases": []
+    },
+    "Medical Coding": {
+      "category": "healthcare",
+      "aliases": [
+        "icd-10",
+        "icd-9",
+        "cpt coding"
+      ]
+    },
+    "Electronic Medical Records": {
+      "category": "healthcare",
+      "aliases": [
+        "electronic health records",
+        "emr",
+        "ehr"
+      ]
+    },
+    "HIPAA": {
+      "category": "healthcare",
+      "aliases": []
+    },
+    "CPR": {
+      "category": "healthcare",
+      "aliases": [
+        "cpr certified",
+        "bls certified"
+      ]
+    },
+    "First Aid": {
+      "category": "healthcare",
+      "aliases": []
+    },
+    "Nursing": {
+      "category": "healthcare",
+      "aliases": [
+        "registered nurse",
+        "nursing care",
+        "licensed practical nurse"
+      ],
+      "ambiguous_aliases": [
+        "nursing"
+      ]
+    },
+    "Case Management": {
+      "category": "healthcare",
+      "aliases": []
+    },
+    "Phlebotomy": {
+      "category": "healthcare",
+      "aliases": []
+    },
+    "Healthcare Administration": {
+      "category": "healthcare",
+      "aliases": [
+        "health care administration"
+      ]
+    },
+    "Personal Training": {
+      "category": "fitness",
+      "aliases": [
+        "personal trainer"
+      ]
+    },
+    "Group Fitness": {
+      "category": "fitness",
+      "aliases": [
+        "group exercise",
+        "fitness instruction"
+      ]
+    },
+    "Nutrition": {
+      "category": "fitness",
+      "aliases": [
+        "nutritional counseling",
+        "nutrition education",
+        "meal planning"
+      ],
+      "ambiguous_aliases": [
+        "nutrition"
+      ]
+    },
+    "Menu Planning": {
+      "category": "hospitality",
+      "aliases": [
+        "menu development",
+        "menu design",
+        "menu creation"
+      ]
+    },
+    "Food Safety": {
+      "category": "hospitality",
+      "aliases": [
+        "servsafe",
+        "servsafe certified",
+        "haccp",
+        "food handling",
+        "food sanitation"
+      ]
+    },
+    "Food Preparation": {
+      "category": "hospitality",
+      "aliases": [
+        "food prep"
+      ]
+    },
+    "Cooking": {
+      "category": "hospitality",
+      "aliases": [
+        "culinary arts",
+        "culinary"
+      ]
+    },
+    "Cost Control": {
+      "category": "hospitality",
+      "aliases": [
+        "food cost control",
+        "food costing"
+      ]
+    },
+    "Catering": {
+      "category": "hospitality",
+      "aliases": [
+        "catering services",
+        "event catering"
+      ],
+      "ambiguous_aliases": [
+        "catering"
+      ]
+    },
+    "Kitchen Management": {
+      "category": "hospitality",
+      "aliases": []
+    },
+    "Portion Control": {
+      "category": "hospitality",
+      "aliases": []
+    },
+    "Lesson Planning": {
+      "category": "education",
+      "aliases": [
+        "lesson plans",
+        "lesson plan"
+      ]
+    },
+    "Classroom Management": {
+      "category": "education",
+      "aliases": []
+    },
+    "Curriculum Development": {
+      "category": "education",
+      "aliases": [
+        "curriculum design",
+        "curriculum planning"
+      ],
+      "ambiguous_aliases": [
+        "curriculum"
+      ]
+    },
+    "Teaching": {
+      "category": "education",
+      "aliases": []
+    },
+    "Tutoring": {
+      "category": "education",
+      "aliases": []
+    },
+    "Instructional Design": {
+      "category": "education",
+      "aliases": []
+    },
+    "Special Education": {
+      "category": "education",
+      "aliases": [
+        "individualized education program",
+        "ieps"
+      ]
+    },
+    "Differentiated Instruction": {
+      "category": "education",
+      "aliases": []
+    },
+    "Legal Research": {
+      "category": "legal",
+      "aliases": [
+        "case law research"
+      ]
+    },
+    "Litigation": {
+      "category": "legal",
+      "aliases": [
+        "litigation support"
+      ]
+    },
+    "Legal Writing": {
+      "category": "legal",
+      "aliases": [
+        "legal drafting",
+        "drafting legal documents"
+      ]
+    },
+    "Mediation": {
+      "category": "legal",
+      "aliases": []
+    },
+    "Conflict Resolution": {
+      "category": "legal",
+      "aliases": [
+        "conflict management"
+      ]
+    },
+    "Aircraft Maintenance": {
+      "category": "aviation",
+      "aliases": [
+        "aviation maintenance",
+        "airframe and powerplant",
+        "aircraft mechanic"
+      ]
+    },
+    "FAA Regulations": {
+      "category": "aviation",
+      "aliases": [
+        "faa"
+      ]
+    },
+    "Flight Operations": {
+      "category": "aviation",
+      "aliases": []
+    },
+    "Air Traffic Control": {
+      "category": "aviation",
+      "aliases": []
+    },
+    "Crop Management": {
+      "category": "agriculture",
+      "aliases": [
+        "crop production"
+      ]
+    },
+    "Agronomy": {
+      "category": "agriculture",
+      "aliases": []
+    },
+    "Irrigation": {
+      "category": "agriculture",
+      "aliases": [
+        "irrigation systems",
+        "irrigation management"
+      ],
+      "ambiguous_aliases": [
+        "irrigation"
+      ]
+    },
+    "Pesticide Application": {
+      "category": "agriculture",
+      "aliases": [
+        "pesticides"
+      ]
+    },
+    "Soil Science": {
+      "category": "agriculture",
+      "aliases": [
+        "soil testing"
+      ]
+    },
+    "Leadership": {
+      "category": "soft_skills",
+      "aliases": [
+        "team leadership",
+        "leadership skills"
+      ],
+      "ambiguous_aliases": [
+        "leadership"
+      ]
+    },
+    "Communication Skills": {
+      "category": "soft_skills",
+      "aliases": [
+        "verbal communication",
+        "written communication"
+      ],
+      "ambiguous_aliases": [
+        "communication",
+        "communications"
+      ]
+    },
+    "Teamwork": {
+      "category": "soft_skills",
+      "aliases": [
+        "team player",
+        "team work"
+      ]
+    },
+    "Time Management": {
+      "category": "soft_skills",
+      "aliases": []
+    },
+    "Problem Solving": {
+      "category": "soft_skills",
+      "aliases": [
+        "problem-solving",
+        "problem solver"
+      ]
+    },
+    "Attention to Detail": {
+      "category": "soft_skills",
+      "aliases": [
+        "detail-oriented",
+        "detail oriented"
+      ]
+    },
+    "Critical Thinking": {
+      "category": "soft_skills",
+      "aliases": [
+        "critical thinker"
+      ]
+    },
+    "Multitasking": {
+      "category": "soft_skills",
+      "aliases": [
+        "multi-tasking",
+        "multi tasking"
+      ]
+    },
+    "Decision Making": {
+      "category": "soft_skills",
+      "aliases": [
+        "decision-making"
+      ]
+    },
+    "Interpersonal Skills": {
+      "category": "soft_skills",
+      "aliases": [
+        "people skills"
+      ]
+    },
+    "Organizational Skills": {
+      "category": "soft_skills",
+      "aliases": [
+        "organization skills"
+      ]
+    },
+    "Public Speaking": {
+      "category": "soft_skills",
+      "aliases": [
+        "presentation skills"
+      ]
+    },
+    "Spanish": {
+      "category": "spoken_language",
+      "aliases": [
+        "fluent in spanish",
+        "bilingual spanish",
+        "spanish language",
+        "spanish speaking",
+        "spanish-speaking",
+        "english/spanish",
+        "spanish/english"
+      ],
+      "ambiguous_aliases": [
+        "spanish"
+      ]
+    },
+    "French": {
+      "category": "spoken_language",
+      "aliases": [
+        "fluent in french",
+        "bilingual french",
+        "french language"
+      ],
+      "ambiguous_aliases": [
+        "french"
+      ]
+    }
+  }
+}

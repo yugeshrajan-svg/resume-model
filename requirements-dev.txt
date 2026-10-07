@@ -1,0 +1,2 @@
+# Include the optional evaluation dependency so all 404 offline tests run.
+-e .[dev,ltr]

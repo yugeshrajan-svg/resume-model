@@ -1,0 +1,16 @@
+Job Title: Junior Data Analyst
+Location: Hyderabad, India
+
+Responsibilities
+- Build dashboards and reports for business teams
+
+Requirements
+- 1+ years of experience in data analysis
+- Strong SQL and Python
+- Tableau or Power BI
+- Statistics
+
+Nice to have
+- A/B testing, Pandas
+
+Notice period: we can wait up to 30 days.

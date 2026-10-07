@@ -1,0 +1,25 @@
+Varun Bhat
+varun.bhat@example.com
+Location: Bengaluru, India
+Notice period: 30 days
+
+Summary
+Data engineer with streaming experience.
+
+Experience
+Data Engineer | Granite Payments
+Jan 2022 - Present
+- Developed streaming ingestio-
+  n with Kafka and Spark on AWS
+- Scheduled data qualit-
+  y checks with Airflow
+Software Engineer | Ivy Systems
+Jan 2021 - Dec 2021
+- Wrote Python a-
+  nd SQL services
+
+Skills
+Python, SQL, Apache Spark, Kafka, Airflow, AWS
+
+Education
+B.Tech in Computer Science, Anna University, 2016
